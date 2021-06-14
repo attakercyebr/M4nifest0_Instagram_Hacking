@@ -1,4 +1,3 @@
-# M4nifest0_Fake_instagram
 # ![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/levlogo.png) 
 ************
 
@@ -25,9 +24,7 @@
 
 # How to work with the tool :
 ----------------------
-- 📌 You can get the tool through the following sites or our Telegram channel
 - 🔞 https://www.youtube.com/watch?v=T9jlCYxnr6M&ab_channel=hack4lx
-
 ----------------------
 
 <h2>- 📌 Get the tool via the links below</h2>
