@@ -24,7 +24,7 @@
 
 # How to work with the tool :
 ----------------------
-- 🔞 https://www.youtube.com/watch?v=T9jlCYxnr6M&ab_channel=hack4lx
+- 🔞 https://www.youtube.com/watch?v=S2zozPjchYQ&feature=youtu.be
 ----------------------
 
 <h2>- 📌 Get the tool via the links below</h2>
